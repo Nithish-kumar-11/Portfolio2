@@ -209,7 +209,7 @@ html {
     display: inline-block;
     padding: 8px 10px;
     font-size: 12px;
-    color: #fff;
+    color: #f5f1f1;
     background-color: #1dc78b; 
     border: 2px solid #1bb8c0;
     border-radius: 5px; 
@@ -222,7 +222,7 @@ html {
   }
 
   .linked-color {
-    background-color: rgb(0, 119, 181);
+    background-color: rgb(20, 150, 201);
     color: var(--social-icon-inner-color);
   }
 
